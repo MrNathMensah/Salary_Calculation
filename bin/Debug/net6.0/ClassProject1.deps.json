@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ClassProject1/1.0.0": {
+        "dependencies": {
+          "SalaryProcessingClassLibrary": "1.0.0"
+        },
+        "runtime": {
+          "ClassProject1.dll": {}
+        }
+      },
+      "SalaryProcessingClassLibrary/1.0.0": {
+        "runtime": {
+          "SalaryProcessingClassLibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ClassProject1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SalaryProcessingClassLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

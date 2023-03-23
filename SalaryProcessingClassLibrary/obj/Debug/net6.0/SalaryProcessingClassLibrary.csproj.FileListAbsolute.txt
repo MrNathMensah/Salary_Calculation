@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\ClassProject1\SalaryProcessingClassLibrary\bin\Debug\net6.0\SalaryProcessingClassLibrary.deps.json
+C:\Users\User\source\repos\ClassProject1\SalaryProcessingClassLibrary\bin\Debug\net6.0\SalaryProcessingClassLibrary.dll
+C:\Users\User\source\repos\ClassProject1\SalaryProcessingClassLibrary\bin\Debug\net6.0\ref\SalaryProcessingClassLibrary.dll
+C:\Users\User\source\repos\ClassProject1\SalaryProcessingClassLibrary\bin\Debug\net6.0\SalaryProcessingClassLibrary.pdb
+C:\Users\User\source\repos\ClassProject1\SalaryProcessingClassLibrary\obj\Debug\net6.0\SalaryProcessingClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ClassProject1\SalaryProcessingClassLibrary\obj\Debug\net6.0\SalaryProcessingClassLibrary.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ClassProject1\SalaryProcessingClassLibrary\obj\Debug\net6.0\SalaryProcessingClassLibrary.AssemblyInfo.cs
+C:\Users\User\source\repos\ClassProject1\SalaryProcessingClassLibrary\obj\Debug\net6.0\SalaryProcessingClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ClassProject1\SalaryProcessingClassLibrary\obj\Debug\net6.0\SalaryProcessingClassLibrary.dll
+C:\Users\User\source\repos\ClassProject1\SalaryProcessingClassLibrary\obj\Debug\net6.0\ref\SalaryProcessingClassLibrary.dll
+C:\Users\User\source\repos\ClassProject1\SalaryProcessingClassLibrary\obj\Debug\net6.0\SalaryProcessingClassLibrary.pdb
